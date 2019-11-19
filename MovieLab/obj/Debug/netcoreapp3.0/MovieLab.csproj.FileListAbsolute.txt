@@ -1,0 +1,11 @@
+C:\Users\gilki\source\repos\MovieLab\MovieLab\bin\Debug\netcoreapp3.0\MovieLab.exe
+C:\Users\gilki\source\repos\MovieLab\MovieLab\bin\Debug\netcoreapp3.0\MovieLab.deps.json
+C:\Users\gilki\source\repos\MovieLab\MovieLab\bin\Debug\netcoreapp3.0\MovieLab.runtimeconfig.json
+C:\Users\gilki\source\repos\MovieLab\MovieLab\bin\Debug\netcoreapp3.0\MovieLab.runtimeconfig.dev.json
+C:\Users\gilki\source\repos\MovieLab\MovieLab\bin\Debug\netcoreapp3.0\MovieLab.dll
+C:\Users\gilki\source\repos\MovieLab\MovieLab\bin\Debug\netcoreapp3.0\MovieLab.pdb
+C:\Users\gilki\source\repos\MovieLab\MovieLab\obj\Debug\netcoreapp3.0\MovieLab.csprojAssemblyReference.cache
+C:\Users\gilki\source\repos\MovieLab\MovieLab\obj\Debug\netcoreapp3.0\MovieLab.AssemblyInfoInputs.cache
+C:\Users\gilki\source\repos\MovieLab\MovieLab\obj\Debug\netcoreapp3.0\MovieLab.AssemblyInfo.cs
+C:\Users\gilki\source\repos\MovieLab\MovieLab\obj\Debug\netcoreapp3.0\MovieLab.dll
+C:\Users\gilki\source\repos\MovieLab\MovieLab\obj\Debug\netcoreapp3.0\MovieLab.pdb
